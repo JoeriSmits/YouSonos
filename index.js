@@ -7,7 +7,7 @@ const main = async () => {
         throw new Error(e);
     });
     try {
-        const mp3 = await youtubeMp3.getVideoAsMp3("ITW3unj61rg");
+        const mp3 = await youtubeMp3.getVideoAsMp3("lBA9ckGyKcw");
         sonos.play(`http://192.168.1.74:3000/${mp3.fileName}.mp3`);
     } catch(e) {
         console.log(e)
