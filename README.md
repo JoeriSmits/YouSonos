@@ -10,6 +10,7 @@ Files downloaded and codec converted are temporarely stored in the `/tmp` direct
 Sonos will retrieve the file from the web server.
 
 ## future ideas
+* Streaming videos instead of downloading them 100% first.
 * A UI where the user can search for youtube videos and send them to SONOS. Also a progress indication would be nice because some videos (1h or longer) can take some time to download.
 * Make basic controls for SONOS to replace the official SONOS connect app.
 * Add support for other streaming services preferably Spotify. This would be not that difficult since Sonos can directly accept a spotify URI.
