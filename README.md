@@ -3,6 +3,7 @@
 Prototyping project to stream youtube videos to a SONOS device. This project gets the information from youtube based on ID, downloads the video, converts it to MP3 and enables it for SONOS.
 
 `npm install`
+
 `npm run debug`
 
 Files downloaded and codec converted are temporarely stored in the `/tmp` directory. An express server enables this folder over the network.
