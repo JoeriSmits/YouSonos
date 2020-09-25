@@ -1,4 +1,4 @@
-# SonnosConnect
+# YouSonos
 
 Prototyping project to stream youtube videos to a SONOS device. This project gets the information from youtube based on ID, downloads the video, converts it to MP3 and enables it for SONOS.
 
